@@ -83,7 +83,7 @@ document.querySelector('.check').addEventListener('click', function () {
   //   }
   // }
 });
-
+console.log("changes")
 
 // Again button functionallity part of coding challenge 
 document.querySelector('.again').addEventListener('click', function () {
